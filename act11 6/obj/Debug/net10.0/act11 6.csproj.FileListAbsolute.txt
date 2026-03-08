@@ -1,0 +1,15 @@
+C:\Users\Nivkk\OneDrive\Documentos\UDEO\tercer semestre\programacion 3\programas visual\actividad11\act11 6\bin\Debug\net10.0\act11 6.exe
+C:\Users\Nivkk\OneDrive\Documentos\UDEO\tercer semestre\programacion 3\programas visual\actividad11\act11 6\bin\Debug\net10.0\act11 6.deps.json
+C:\Users\Nivkk\OneDrive\Documentos\UDEO\tercer semestre\programacion 3\programas visual\actividad11\act11 6\bin\Debug\net10.0\act11 6.runtimeconfig.json
+C:\Users\Nivkk\OneDrive\Documentos\UDEO\tercer semestre\programacion 3\programas visual\actividad11\act11 6\bin\Debug\net10.0\act11 6.dll
+C:\Users\Nivkk\OneDrive\Documentos\UDEO\tercer semestre\programacion 3\programas visual\actividad11\act11 6\bin\Debug\net10.0\act11 6.pdb
+C:\Users\Nivkk\OneDrive\Documentos\UDEO\tercer semestre\programacion 3\programas visual\actividad11\act11 6\obj\Debug\net10.0\act11 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nivkk\OneDrive\Documentos\UDEO\tercer semestre\programacion 3\programas visual\actividad11\act11 6\obj\Debug\net10.0\act11 6.AssemblyInfoInputs.cache
+C:\Users\Nivkk\OneDrive\Documentos\UDEO\tercer semestre\programacion 3\programas visual\actividad11\act11 6\obj\Debug\net10.0\act11 6.AssemblyInfo.cs
+C:\Users\Nivkk\OneDrive\Documentos\UDEO\tercer semestre\programacion 3\programas visual\actividad11\act11 6\obj\Debug\net10.0\act11 6.csproj.CoreCompileInputs.cache
+C:\Users\Nivkk\OneDrive\Documentos\UDEO\tercer semestre\programacion 3\programas visual\actividad11\act11 6\obj\Debug\net10.0\act11 6.sourcelink.json
+C:\Users\Nivkk\OneDrive\Documentos\UDEO\tercer semestre\programacion 3\programas visual\actividad11\act11 6\obj\Debug\net10.0\act11 6.dll
+C:\Users\Nivkk\OneDrive\Documentos\UDEO\tercer semestre\programacion 3\programas visual\actividad11\act11 6\obj\Debug\net10.0\refint\act11 6.dll
+C:\Users\Nivkk\OneDrive\Documentos\UDEO\tercer semestre\programacion 3\programas visual\actividad11\act11 6\obj\Debug\net10.0\act11 6.pdb
+C:\Users\Nivkk\OneDrive\Documentos\UDEO\tercer semestre\programacion 3\programas visual\actividad11\act11 6\obj\Debug\net10.0\act11 6.genruntimeconfig.cache
+C:\Users\Nivkk\OneDrive\Documentos\UDEO\tercer semestre\programacion 3\programas visual\actividad11\act11 6\obj\Debug\net10.0\ref\act11 6.dll
