@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "act11 6": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
